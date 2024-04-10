@@ -17,17 +17,20 @@ public static class GameEngine
     //TODO implement a listener interface
 
 
-    public static Map GetMap() {
+    public static Map GetMap()
+    {
         return map;
     }
 
-    public static GameObject GetFocusedObject(){
+    public static GameObject GetFocusedObject()
+    {
         return _focusedObject;
     }
 
-    public static void Setup(){
+    public static void Setup()
+    {
         dynamic gameData = FileHandler.ReadJson();
-        
+
         map.MapWidth = gameData.map.width;
         map.MapHeight = gameData.map.height;
 
@@ -44,13 +47,26 @@ public static class GameEngine
                 case 1:
                     newObj = gameObject.ToObject<King>();
                     break;
+                case 2:
+                    newObj = gameObject.ToObject<Bishop>();
+                    break;
+                case 3:
+                    newObj = gameObject.ToObject<Knight>();
+                    break;
+                case 4:
+                    newObj = gameObject.ToObject<Rook>();
+                    break;
+                case 5:
+                    newObj = gameObject.ToObject<Pawn>();
+                    break;
             }
-                        
+
             AddGameObject(newObj);
         }
     }
 
-    public static void Render() {
+    public static void Render()
+    {
         //Clean the map
         Console.Clear();
 
@@ -70,29 +86,33 @@ public static class GameEngine
             Console.WriteLine();
         }
     }
-    
-    public static void AddGameObject(GameObject gameObject){
+
+    public static void AddGameObject(GameObject gameObject)
+    {
         gameObjects.Add(gameObject);
     }
 
-    private static void PlaceGameObjects(){
-        
-        gameObjects.ForEach(delegate(GameObject obj)
+    private static void PlaceGameObjects()
+    {
+
+        gameObjects.ForEach(delegate (GameObject obj)
         {
             map.Set(obj);
         });
     }
 
-    private static void DrawObject(GameObject gameObject){
-        
+    private static void DrawObject(GameObject gameObject)
+    {
+
         Console.ResetColor();
 
-        if(gameObject != null)
+        if (gameObject != null)
         {
             Console.ForegroundColor = gameObject.Color;
             Console.Write(gameObject.CharRepresentation);
         }
-        else{
+        else
+        {
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.Write(' ');
         }

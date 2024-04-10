@@ -1,9 +1,27 @@
 {
     "map": {
-      "width": 10,
+      "width": 8,
       "height": 8 
     },
     "gameObjects": [
+      {
+        "Type": 0,
+        "Color": 1,
+        "PosX": 3,
+        "PosY": 0
+      },
+      {
+        "Type": 0,
+        "Color": 2,
+        "PosX": 3,
+        "PosY": 7
+      },
+      {
+        "Type": 1,
+        "Color": 1,
+        "PosX": 4,
+        "PosY": 0
+      },
       {
         "Type": 1,
         "Color": 2,
@@ -11,17 +29,173 @@
         "PosY": 7
       },
       {
-        "Type": 0,
-        "Color": 5,
-        "PosX": 2,
-        "PosY": 1,
-        "CharRepresentation": "♘"
+        "Type":2,
+        "Color": 1,
+        "PosX": 5,
+        "PosY": 0
       },
       {
-        "Type": 1,
-        "Color": 6,
+        "Type":2,
+        "Color": 1,
         "PosX": 2,
-        "PosY": 2
+        "PosY": 0
+      },
+      {
+        "Type":2,
+        "Color": 2,
+        "PosX": 5,
+        "PosY": 7
+      },
+      {
+        "Type":2,
+        "Color": 2,
+        "PosX": 2,
+        "PosY": 7
+      },
+      {
+        "Type":3,
+        "Color": 1,
+        "PosX": 1,
+        "PosY": 0
+      },
+      {
+        "Type":3,
+        "Color": 1,
+        "PosX": 6,
+        "PosY": 0
+      },
+      {
+        "Type":3,
+        "Color": 2,
+        "PosX": 1,
+        "PosY": 7
+      },
+      {
+        "Type":3,
+        "Color": 2,
+        "PosX": 6,
+        "PosY": 7
+      },
+      {
+        "Type":4,
+        "Color": 1,
+        "PosX": 7,
+        "PosY": 0
+      },
+      {
+        "Type":4,
+        "Color": 2,
+        "PosX": 0,
+        "PosY": 7
+      },
+      {
+        "Type":4,
+        "Color": 2,
+        "PosX": 7,
+        "PosY": 7
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 0,
+        "PosY": 1
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 1,
+        "PosY": 1
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 2,
+        "PosY": 1
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 3,
+        "PosY": 1
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 4,
+        "PosY": 1
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 5,
+        "PosY": 1
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 6,
+        "PosY": 1
+      },
+      {
+        "Type":5,
+        "Color": 1,
+        "PosX": 7,
+        "PosY": 1
+      },
+
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 0,
+        "PosY": 6
+      },
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 1,
+        "PosY": 6
+      },
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 2,
+        "PosY": 6
+      },
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 3,
+        "PosY": 6
+      },
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 4,
+        "PosY": 6
+      },
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 5,
+        "PosY": 6
+      },
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 6,
+        "PosY": 6
+      },
+      {
+        "Type":5,
+        "Color": 2,
+        "PosX": 7,
+        "PosY": 6
+      },
+      {
+        "Type":4,
+        "Color": 1,
+        "PosX": 0,
+        "PosY": 0
       }
     ]
   }

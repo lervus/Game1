@@ -73,19 +73,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\A200002851\\.nuget\\packages\\": {}
+    "C:\\Users\\andre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson06\\game\\game.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\game\\game.csproj",
       "projectName": "game",
-      "projectPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson06\\game\\game.csproj",
-      "packagesPath": "C:\\Users\\A200002851\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson06\\game\\obj\\",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\game\\game.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\A200002851\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -97,8 +97,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson06\\libs\\libs.csproj": {
-              "projectPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson06\\libs\\libs.csproj"
+            "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\libs\\libs.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\libs\\libs.csproj"
             }
           }
         }
@@ -133,7 +133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
