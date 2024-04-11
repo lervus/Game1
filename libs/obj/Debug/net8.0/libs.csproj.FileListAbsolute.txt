@@ -23,3 +23,16 @@ C:\Users\andre\OneDrive\Desktop\UNI\C#\chessc#\Game1\libs\obj\Debug\net8.0\libs.
 C:\Users\andre\OneDrive\Desktop\UNI\C#\chessc#\Game1\libs\obj\Debug\net8.0\refint\libs.dll
 C:\Users\andre\OneDrive\Desktop\UNI\C#\chessc#\Game1\libs\obj\Debug\net8.0\libs.pdb
 C:\Users\andre\OneDrive\Desktop\UNI\C#\chessc#\Game1\libs\obj\Debug\net8.0\ref\libs.dll
+F:\FH\C#\sokoban\Game1\libs\bin\Debug\net8.0\libs.deps.json
+F:\FH\C#\sokoban\Game1\libs\bin\Debug\net8.0\libs.dll
+F:\FH\C#\sokoban\Game1\libs\bin\Debug\net8.0\libs.pdb
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.csproj.AssemblyReference.cache
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.GeneratedMSBuildEditorConfig.editorconfig
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.AssemblyInfoInputs.cache
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.AssemblyInfo.cs
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.csproj.CoreCompileInputs.cache
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.sourcelink.json
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.dll
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\refint\libs.dll
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\libs.pdb
+F:\FH\C#\sokoban\Game1\libs\obj\Debug\net8.0\ref\libs.dll

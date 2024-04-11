@@ -1,0 +1,51 @@
+Type represents the type of game object:
+
+0: Wall
+1: Box
+2: Storage location
+3: Player
+4: Box on storage
+5: Player on storage
+6: Empty storage location
+7: Box on wrong storage
+8: Player on wrong storage
+9: Target storage location
+10: Floor
+11: Empty space
+12: Target
+Color is currently not used, but you can modify it according to your requirements.
+
+PosX and PosY represent the positions of the game objects on the grid.
+
+
+    
+    "solution": [
+      {
+        "dx": 0,
+        "dy": -1
+      },
+      {
+        "dx": 0,
+        "dy": -1
+      },
+      {
+        "dx": 0,
+        "dy": -1
+      },
+      {
+        "dx": 1,
+        "dy": 0
+      },
+      {
+        "dx": 1,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 1
+      },
+      {
+        "dx": 0,
+        "dy": 1
+      }
+    ]

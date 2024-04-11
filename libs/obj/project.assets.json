@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\libs\\libs.csproj",
+      "projectUniqueName": "F:\\FH\\C#\\sokoban\\Game1\\libs\\libs.csproj",
       "projectName": "libs",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\libs\\libs.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\UNI\\C#\\chessc#\\Game1\\libs\\obj\\",
+      "projectPath": "F:\\FH\\C#\\sokoban\\Game1\\libs\\libs.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "F:\\FH\\C#\\sokoban\\Game1\\libs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

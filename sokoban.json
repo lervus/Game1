@@ -1,0 +1,98 @@
+{
+    "map": {
+      "width": 7,
+      "height": 5
+    },
+    "gameObjects": [
+      {
+        "Type": 0,
+        "Color": 0,
+        "PosX": 3,
+        "PosY": 2
+      },
+      {
+        "Type": 1,
+        "Color": 0,
+        "PosX": 2,
+        "PosY": 2
+      },
+      {
+        "Type": 2,
+        "Color": 0,
+        "PosX": 1,
+        "PosY": 2
+      },
+      {
+        "Type": 3,
+        "Color": 0,
+        "PosX": 1,
+        "PosY": 1
+      },
+      {
+        "Type": 3,
+        "Color": 0,
+        "PosX": 2,
+        "PosY": 1
+      },
+      {
+        "Type": 4,
+        "Color": 0,
+        "PosX": 1,
+        "PosY": 3
+      },
+      {
+        "Type": 4,
+        "Color": 0,
+        "PosX": 2,
+        "PosY": 3
+      },
+      {
+        "Type": 5,
+        "Color": 0,
+        "PosX": 3,
+        "PosY": 3
+      },
+      {
+        "Type": 6,
+        "Color": 0,
+        "PosX": 4,
+        "PosY": 3
+      },
+      {
+        "Type": 7,
+        "Color": 0,
+        "PosX": 4,
+        "PosY": 2
+      },
+      {
+        "Type": 8,
+        "Color": 0,
+        "PosX": 4,
+        "PosY": 1
+      },
+      {
+        "Type": 9,
+        "Color": 0,
+        "PosX": 3,
+        "PosY": 1
+      },
+      {
+        "Type": 10,
+        "Color": 0,
+        "PosX": 3,
+        "PosY": 0
+      },
+      {
+        "Type": 11,
+        "Color": 0,
+        "PosX": 2,
+        "PosY": 0
+      },
+      {
+        "Type": 12,
+        "Color": 0,
+        "PosX": 1,
+        "PosY": 0
+      }
+    ]
+  }
